@@ -3,7 +3,8 @@
         {
             "name": "MingGW",
             "includePath": [
-                "${workspaceFolder}/**"
+                "${workspaceFolder}/**",
+                "${workspaceFolder}/digitSplit"
             ],
             "defines": [
                 "_DEBUG",
